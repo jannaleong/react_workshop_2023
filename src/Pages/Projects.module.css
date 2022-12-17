@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+
+h1 {
+  text-align: center;
+}
+
+html {
+  font-family: "Open Sans", sans-serif;
+  list-style: none;
+}
