@@ -1,3 +1,5 @@
+//creating projectitem component. a project item component outputs a box with an image, description and title for each project
+
 import Card from "./Card";
 import classes from "./ProjectItem.module.css";
 
